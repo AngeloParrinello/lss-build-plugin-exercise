@@ -1,0 +1,1 @@
+rootProject.name = "lss2023-testplugin"
